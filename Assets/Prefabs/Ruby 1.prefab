@@ -104,7 +104,8 @@ MonoBehaviour:
   timeInvincible: 2
   respawnPosition: {fileID: 0}
   hitParticle: {fileID: 0}
-  projectilePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 796395631934004099, guid: b1d21fa23be2457488ade2ba717675b1,
+    type: 3}
   hitSound: {fileID: 0}
   shootingSound: {fileID: 0}
 --- !u!50 &3936048410548914013
